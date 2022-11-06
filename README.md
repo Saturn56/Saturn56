@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simon
-- 👀 I’m interested in Web, Minecraft and Python
+- 👀 I’m interested in Web, Minecraft and Python development
 - 🌱 I’m currently learning Frontend and Backend development with Node.js
 
 
